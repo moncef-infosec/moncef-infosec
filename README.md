@@ -1,16 +1,22 @@
 ## Hi there 👋
+# 👋 Hi, I'm Dark Lord
 
-<!--
-**moncef-infosec/moncef-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ About Me
+- 🎓 Political Science student with strong interest in Cyber Security
+- 🔐 Aspiring Penetration Tester
+- 🧪 Hands-on experience with TryHackMe labs
+- 📚 Coursera Cyber Security Certificates
 
-Here are some ideas to get you started:
+## 🧰 Skills
+- Linux & Bash
+- Networking Fundamentals
+- Web Security Basics
+- Tools: Nmap, Gobuster, Burp Suite, Metasploit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Learning Platforms
+- TryHackMe
+- Coursera
+- Self-Study & Practice
+
+## 📫 Contact
+- GitHub: @moncef-infosec
